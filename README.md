@@ -1,5 +1,4 @@
 🎯 Modern Quiz Application - Complete Guide
-📋 What I've Created For You
 I've built a MODERN, ADVANCED Java Quiz Application with:
 ✨ Modern UI Features:
 
